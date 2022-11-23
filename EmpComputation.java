@@ -1,4 +1,4 @@
-public class EmpComputaion{
+public class EmpComputation{
 	public static final int part_time = 1;
 	public static final int full_time = 2;
 	public static final int working_days = 20;
